@@ -1,4 +1,0 @@
-verilog isim_temp "rs232.v"
-verilog isim_temp "top.v"
-verilog isim_temp "testbench.v"
-verilog isim_temp "C:/Xilinx/10.1/ISE/verilog/src/glbl.v"

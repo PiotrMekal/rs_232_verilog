@@ -1,4 +1,0 @@
-verilog work "rs232.v"
-verilog work "top.v"
-verilog work "testbench.v"
-verilog work "C:/Xilinx/10.1/ISE/verilog/src/glbl.v"
